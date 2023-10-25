@@ -7,16 +7,16 @@ export interface Template {
   endDate: string
 };
 const one: Template = {
-  title: "Senior Software Development Engineer",
-  location: "Hybrid - Makassar, Indonesia",
+  title: "Lead Software Engineer",
+  location: "Makassar, Indonesia",
   company: "Yuscorp",
   company_link: "https://yuscorp.co.id",
   startDate: "Dec 2022",
   endDate:"Present"
 };
 const two: Template = {
-  title: "Technical Consulting",
-  location: "Remote - Makassar, Indonesia",
+  title: "Technical Consultant",
+  location: "Makassar, Indonesia",
   company: "Afila Media Karya",
   company_link : "https://afila.co.id/",
   startDate: "Jan 2023",
@@ -24,7 +24,7 @@ const two: Template = {
 };
 const three: Template = {
   title: "Engineering Manager",
-  location: "Hybrid - Makassar, Indonesia",
+  location: "Makassar, Indonesia",
   company: "Kioser",
   company_link: "https://kioser.com",
   startDate: "Jan 2021",
@@ -32,7 +32,7 @@ const three: Template = {
 };
 const four = {
   title: "Software Engineer - Backend ",
-  location: "Hybrid - Makassar, Indonesia",
+  location: "Makassar, Indonesia",
   company: "Kioser",
   company_link: "https://kioser.com",
   startDate: "Dec 2019",
