@@ -6,6 +6,15 @@ import BaseHead from "../components/BaseHead.astro";
   <head>
     <BaseHead />
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSP4BS101M"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JSP4BS101M');
+  </script>
 
   <body class="bg-white dark:bg-black">
     <slot />
