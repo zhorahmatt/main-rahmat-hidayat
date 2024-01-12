@@ -7,7 +7,7 @@ export interface Template {
   endDate: string
 };
 const one: Template = {
-  title: "Software Engineer",
+  title: "Software Engineer, Sysadmin",
   location: "Makassar, Indonesia",
   company: "Yuscorp",
   company_link: "https://yuscorp.co.id",
